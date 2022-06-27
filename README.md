@@ -5,5 +5,5 @@
 ```bash
 conda env create --file conda_env.yaml
 conda activate ql100x
-python main.py
+python QMCpricing.py
 ```
